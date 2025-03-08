@@ -1,1 +1,1 @@
-Hi
+This direcotry contains CMD.exe and Powershell scripts to provide ease of access to some features on Windows. Each subdirectory is named appropriately based on their functionality and contains a separate readme file which describes the script.
